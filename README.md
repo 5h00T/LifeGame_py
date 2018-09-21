@@ -1,0 +1,2 @@
+# LifeGame_py
+Pythonでライフゲーム
